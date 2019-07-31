@@ -3,7 +3,7 @@
 Backup Flash
 
 **Partitions Flash**<br>
-**W25Q32B : 00 0000h - 3F FFFFh**<br>
+**W25Q32BV : 00 0000h - 3F FFFFh**<br>
 0x000000 - 0x0**2FFFF** : "u-boot"<br>
 0x0**30000** - 0x0**3FFFF** : "u-boot-env"<br>
 0x0**40000** - 0x0**4FFFF** : "factory"<br>
