@@ -1,6 +1,6 @@
 # HLK-RM04
 
-Backup Flash
+Original Backup Flash (Firmware(V1.78(Jul 23 2013)))
 
 **Partitions Flash**<br>
 **W25Q32BV : 00 0000h - 3F FFFFh**<br>
