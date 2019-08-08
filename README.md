@@ -10,7 +10,7 @@ Original Backup Flash (Firmware(V1.78(Jul 23 2013)))
 0x0**50000** - 0x**12FFFF** : "kernel"<br>
 0x**130000** - 0x**3FFFFF** : "rootfs"<br>
 
-**Restore original firmware**
+## **Restore original firmware**
 
 With a bin file processor we get the backup flash HLK_RM04 W25Q32.bin
 u-boot + u-boot-env and kernel + rootfs in two files.
@@ -35,3 +35,7 @@ We install the u-boot from here https://github.com/smarpl/hlk-rm04_u-boot becaus
 **1.**	Εγκαταστούμε το αρχείο που έχουμε δημιουργήσει από την επεξεργασία του backup flash HLK_RM04 W25Q32.bin το kernel + rootfs. Με UART “ πατώντας 0 ” ή TFTP “ πατώντας 2 ”.
 
 **2.**	Εγκαταστούμε το αρχείο που έχουμε δημιουργήσει από την επεξεργασία του backup flash HLK_RM04 W25Q32.bin το u-boot + u-boot-env. Με UART “ πατώντας  7 ” ή TFTP “ πατώντας  9 ”.
+
+## The easiest way is with a universal programmer, **'without removing the eeprom'**
+
+![001 (2)](https://user-images.githubusercontent.com/17230472/62714951-2d0f6880-ba08-11e9-9134-414785454324.jpg)
