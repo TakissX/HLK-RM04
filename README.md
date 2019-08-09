@@ -38,4 +38,4 @@ We install the u-boot from here https://github.com/smarpl/hlk-rm04_u-boot becaus
 
 ## The easiest way is with a universal programmer, **'without removing the eeprom'**
 
-![001 (2)](https://user-images.githubusercontent.com/17230472/62714951-2d0f6880-ba08-11e9-9134-414785454324.jpg)
+<img src="https://user-images.githubusercontent.com/17230472/62714951-2d0f6880-ba08-11e9-9134-414785454324.jpg" width=300>
