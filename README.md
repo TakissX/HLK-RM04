@@ -36,6 +36,10 @@ We install the u-boot from here https://github.com/smarpl/hlk-rm04_u-boot becaus
 
 **2.**	Εγκαταστούμε το αρχείο που έχουμε δημιουργήσει από την επεξεργασία του backup flash HLK_RM04 W25Q32.bin το u-boot + u-boot-env. Με UART “ πατώντας  7 ” ή TFTP “ πατώντας  9 ”.
 
+If this project help you reduce time to develop, you can give me a one cup of coffee.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=LFW4K2RH7YJML)
+
 ## The easiest way is with a universal programmer, **'without removing the eeprom'**
 
 <img src="https://user-images.githubusercontent.com/17230472/62714951-2d0f6880-ba08-11e9-9134-414785454324.jpg" width=300>
